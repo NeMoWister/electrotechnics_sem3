@@ -4,4 +4,4 @@
 
 ## Лаба 1
 
-Для решения СЛАУ используется [Sympy](https://docs.sympy.org/latest/modules/solvers/solvers.html), в данном случае используется метод Крамера. После чего результаты вычислений выводятся в формате [Latex](https://www.latex-project.org/)
+Для решения СЛАУ используется [Sympy](https://docs.sympy.org/latest/modules/solvers/solvers.html), в данном случае используется метод Крамера. После чего результаты вычислений выводятся в формате [Latex](https://www.latex-project.org/).
